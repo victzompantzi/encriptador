@@ -6,11 +6,6 @@ Alura Challenge - Encriptador de texto
 
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/victortzompantzi/)
 
 <!-- PROJECT LOGO -->
@@ -76,7 +71,7 @@ HTML, CSS and JavaScript.
 
 ## Getting Started
 
-Solo entra a la página web y encripta el texto que desees. Una vez que lo hayas hecho, puedes copiar el texto encriptado y desencriptarlo allí mismo.
+Solo entra a la página web y encripta el texto que desees. Una vez que lo hayas hecho, copia el texto y desencríptalo.
 
 ### Prerequisites
 
@@ -95,8 +90,8 @@ Solo accede a la siguiente dirección: [Encriptador]()
 1. Escribe el texto a encriptar.
 2. Click en el botón 'Encriptar'.
 3. Copia el resultado con el botón 'Copiar' .
-4. Pega el texto encriptado en campo de texto y da clic en el botón 'Desencriptar'.
-5. ¡Úsalo cuántas veces quieras!
+4. Pega el texto encriptado en el campo de texto y da clic en el botón 'Desencriptar'.
+5. ¡Utilízalo todas las veces que quieras!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +122,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@avistamientos.espirituales](https://instagram.com/avistamientos.espirituales) - degradacionespontanea@gmail.com
+Víctor Tzompantzi - [@avistamientos.espirituales](https://instagram.com/avistamientos.espirituales) - degradacionespontanea@gmail.com
 
 Project Link: [https://github.com/victzompantzi/encriptador/](https://github.com/victzompantzi/encriptador/)
 
@@ -153,19 +148,19 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/victzompantzi/encriptador/svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/victzompantzi/encriptador/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/victzompantzi/encriptador/svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/victzompantzi/encriptador/network/members
-[stars-shield]: https://img.shields.io/github/stars/victzompantzi/encriptador/svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/victzompantzi/encriptador/stargazers
-[issues-shield]: https://img.shields.io/github/issues/victzompantzi/encriptador/svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/victzompantzi/encriptador/issues
-[license-shield]: https://img.shields.io/github/license/victzompantzi/encriptador/svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/victzompantzi/encriptador/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/victortzompantzi/
+[product-screenshot]: assets/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

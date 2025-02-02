@@ -18,7 +18,7 @@ Alura Challenge - Encriptador de texto
     <a href="https://github.com/victzompantzi/encriptador/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/victzompantzi/encriptador/">View Demo</a>
+    <a href="https://victzompantzi.github.io/encrypt-alura/">Try it!</a>
     ·
     <a href="https://github.com/victzompantzi/encriptador/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -79,7 +79,7 @@ Navegador web.
 
 ### Installation
 
-Solo accede a la siguiente dirección: [Encriptador]()
+Solo accede a la siguiente dirección: [Encriptador](https://victzompantzi.github.io/encrypt-alura/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@ Solo accede a la siguiente dirección: [Encriptador]()
 2. Click en el botón 'Encriptar'.
 3. Copia el resultado con el botón 'Copiar' .
 4. Pega el texto encriptado en el campo de texto y da clic en el botón 'Desencriptar'.
-5. ¡Utilízalo todas las veces que quieras!
+5. ¡Utilízalo cuanto quieras!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +134,7 @@ Project Link: [https://github.com/victzompantzi/encriptador/](https://github.com
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)

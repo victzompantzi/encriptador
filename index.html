@@ -6,7 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles/reset.css">
   <link rel="stylesheet" href="styles/style.css">
-  <script src="https://kit.fontawesome.com/741cc188b7.js" crossorigin="anonymous" />
+  <script src="https://kit.fontawesome.com/741cc188b7.js" crossorigin="anonymous">
+  </script>
+  <script src="app.js">
   </script>
   <title>Encriptador</title>
 </head>
@@ -27,26 +29,23 @@
           <p><i class="fa-solid fa-circle-exclamation"></i>&nbsp;Solo letras minúsculas y sin acentos</p>
         </div>
         <div class="buttons__perse">
-          <button onclick="encryptDecrypt(1)" class="buttons__perse--encriptar" id="encrypt">Encriptar</button>
-          <button onclick="encryptDecrypt(2)" class="buttons__perse--desencriptar" id="decrypt">Desencriptar</button>
+          <button onclick="encryptDecrypt(1);" class="buttons__perse--encriptar" id="encrypt">Encriptar</button>
+          <button onclick="encryptDecrypt(2);" class="buttons__perse--desencriptar" id="decrypt">Desencriptar</button>
         </div>
       </div>
     </div>
     <div id="program__output" class="program__output">
-      <!-- <div class="program__output--mono">
-      </div> -->
       <div class="program__output--msg" id="msg">
         <img src="assets/mono.svg" alt="mono">
         <h2>Ningún mensaje fue encontrado</h2>
         <p>Ingrese el texto que desee encriptar o desencriptar.</p>
       </div>
-      <button onclick="copy()" class="buttons__perse--copy" id="copy">Copiar</button>
+      <button onclick="copy();" class="buttons__perse--copy" id="copy">Copiar</button>
     </div>
   </main>
   <footer class="footer">
     <p>Desarrollado por Víctor Tzompantzi</p>
   </footer>
-  <script src="app.js" />
 </body>
 
 </html>
